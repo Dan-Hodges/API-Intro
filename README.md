@@ -8,9 +8,8 @@
   * Determine correct language 
   * Place translated text in the DOM
   * Show hidden DOM element with the text
-* Uses new HTML5 text to speech to read the translation in an accent of that language
   
 ####Future Functionality
 * Aditional supported languages (currently Spanish, Italian, and French are supported)
 * Extend the realm of vocabulary beyond the holiday basics
-
+* Uses new HTML5 text to speech to read the translation in an accent of that language
